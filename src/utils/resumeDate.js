@@ -124,8 +124,7 @@ export default {
   projects: [
     {
       tag: 'React',
-      image:
-        'https://images.unsplash.com/photo-1485988412941-77a35537dae4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1972&q=80',
+      image: 'https://tesla-clone-redux.herokuapp.com/',
       title: 'React Project 1',
       caption: 'A short description',
       description: 'This is my react.js project. Please fill it in',
